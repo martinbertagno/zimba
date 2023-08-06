@@ -1,0 +1,29 @@
+.bees {width: 101%; height:300px ;
+    background-image: url(./bees.jpg);
+    background-size: 101% 300px;
+}
+
+.recorrido {width: 101%; height:300px ;
+    background-image: url(./recorrido.jpg);
+    background-size: 100% 300px;
+}
+
+.monarca {width: 101%; height:300px ;
+    background-image: url(./monarca.jpg);
+    background-size: 100% 300px;
+}
+
+.lebrie {width: 101%; height:300px ;
+    background-image: url(./lebrie.jpg);
+    background-size: 100% 300px;
+}
+
+.asia {width: 101%; height:300px ;
+    background-image: url(./asia.jpg);
+    background-size: 100% 300px;
+}
+
+.desimone {width: 101%; height:300px ;
+    background-image: url(./desimone.jpg);
+    background-size: 100% 300px;
+}
